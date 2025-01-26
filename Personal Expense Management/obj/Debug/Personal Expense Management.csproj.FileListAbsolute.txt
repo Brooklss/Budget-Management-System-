@@ -1,0 +1,18 @@
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\bin\Debug\Personal Expense Management.exe.config
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\bin\Debug\Personal Expense Management.exe
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\bin\Debug\Personal Expense Management.pdb
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal Expense Management.csproj.AssemblyReference.cache
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.Form1.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.Properties.Resources.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal Expense Management.csproj.GenerateResource.cache
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal Expense Management.csproj.CoreCompileInputs.cache
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal Expense Management.exe
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal Expense Management.pdb
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.RegisterForm.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.MainForm.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.CategoryForm.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.DashboardForm.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.incomeForm.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal_Expense_Management.expenseForm.resources
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\bin\Debug\Guna.UI2.dll
+C:\Users\brook\source\repos\Personal Expense Management\Personal Expense Management\obj\Debug\Personal.0176A7C1.Up2Date
